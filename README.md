@@ -16,8 +16,14 @@ All tutorials contain **commands with explanations**, so you can copy, paste, an
 ### 🔑 Git & GitHub
 - [Git SSH Setup & First Push](git/git_github_ssh_and_push_guide.md)  
   *Generate SSH keys, add them to GitHub, link your repo, and push your code.*
-- [Fixing Git Remotes](git_fixing_remotes.md)  
+- [Fixing Git Remotes](git/git_fixing_remotes.md)  
   *Solve errors like `'origin' does not appear to be a git repository'` and manage remotes.*
+- [Cleaning Tracked Files & Gitignore Fix](git/git_cleaning_ignored_files.md)  
+  *Remove unwanted files and fix .gitignore to stop tracking IDE/system files.*
+
+### 🌍 Terraform
+- [Terraform Project Structure & Example](terraform/terraform_project_structure_and_example.md)  
+  *Understand Terraform’s folder layout, providers, and modules with a practical example.*
 
 ---
 
