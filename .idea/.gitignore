@@ -1,11 +1,16 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-/.idea/
-/.DS_Store
+# macOS system files
+.DS_Store
 
+# IntelliJ / PyCharm / WebStorm / VS Code project settings
+.idea/
+
+# JetBrains shelf and workspace
+shelf/
+workspace.xml
+
+# HTTP client requests
+httpRequests/
+
+# Database connection configs
+dataSources/
+dataSources.local.xml
