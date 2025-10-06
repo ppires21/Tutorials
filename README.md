@@ -37,7 +37,7 @@ This is mainly my **learning log**, but contributions are welcome!
 
 ---
 
-## 📌 Future Tutorials (Ideas I'll keep adding when I got the time)
+## 📌 Future Tutorials (Things I'll keep adding when I got the time)
 - Git branching strategies
 - Terraform basics
 - AWS Basics
