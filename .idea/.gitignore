@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ / PyCharm / WebStorm / VS Code project settings
+.idea/
+
+# JetBrains shelf and workspace
+shelf/
+workspace.xml
+
+# HTTP client requests
+httpRequests/
+
+# Database connection configs
+dataSources/
+dataSources.local.xml
