@@ -34,7 +34,7 @@ terraform-challenge/
 
 ---
 
-## 🔧 Provider & Remote State Backend
+## Provider & Remote State Backend
 
 ### Provider configuration
 We tell Terraform **which cloud** to use and in which **region/profile** to operate.
