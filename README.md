@@ -4,16 +4,16 @@ Welcome to **Tutorials**!
 This repository is my personal collection of **step-by-step guides** in Markdown format.  
 
 I created this repo both as:
-- 📝 My **personal reference library** (because I often forget the steps 😅)
-- 🌍 A resource for **others who want to learn** or quickly fix common problems
+-  My **personal reference library** 
+-  A resource for **others who want to learn** or quickly fix common problems
 
-All tutorials contain **commands with explanations**, so you can copy, paste, and understand at the same time.
+All tutorials will contain **commands with explanations**, so you can copy, paste, and understand at the same time.
 
 ---
 
-## 📖 Table of Contents (For now)
+## Table of Contents (For now)
 
-### 🔑 Git & GitHub
+### Git & GitHub
 - [Git SSH Setup & First Push](git/git_github_ssh_and_push_guide.md)  
   *Generate SSH keys, add them to GitHub, link your repo, and push your code.*
 - [Fixing Git Remotes](git/git_fixing_remotes.md)  
@@ -21,13 +21,13 @@ All tutorials contain **commands with explanations**, so you can copy, paste, an
 - [Cleaning Tracked Files & Gitignore Fix](git/git_cleaning_ignored_files.md)  
   *Remove unwanted files and fix .gitignore to stop tracking IDE/system files.*
 
-### 🌍 Terraform
+### Terraform
 - [Terraform Project Structure & Example](terraform/terraform_project_structure_and_example.md)  
   *Understand Terraform’s folder layout, providers, and modules with a practical example.*
 
 ---
 
-## 🚀 How to Use
+## How to Use
 Each tutorial is a standalone **Markdown file**.  
 You can:
 1. Open it directly on GitHub
@@ -36,14 +36,14 @@ You can:
 
 ---
 
-## 🛠 Contributing
-This is mainly my **learning log**, but contributions are welcome!  
+## Contributing
+This is my **learning log**, but contributions are welcome!  
 - Found a mistake? → Open an issue.  
-- Want to add a tutorial? → Open a pull request.  
+- Want to add a tutorial? → Open a pull request.
 
 ---
 
-## 📌 Future Tutorials (Things I'll keep adding when I got the time)
+## Future Tutorials (Things I'll keep adding when I got the time)
 - Git branching strategies
 - Terraform basics
 - AWS Basics
