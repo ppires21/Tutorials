@@ -255,4 +255,5 @@ Next steps you could try:
 
 ---
 
-Now you have a **solid Terraform base project** you can learn from, extend, and adapt. 
+Now you have a **solid Terraform base project** you can learn from, extend, and adapt.
+Do you think this is not enough? Go to the [advanced](terraform/terraform_aws_complex_tutorial.md) tutorial! 
