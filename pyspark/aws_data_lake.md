@@ -1,5 +1,5 @@
 
-# 📘 AWS Data Lake with Glue + PySpark — Complete Documentation (Explanations First, Solutions Last)
+# AWS Data Lake with Glue + PySpark — Complete Documentation (Explanations First, Solutions Last)
 
 This guide is a **self‑contained handbook** that explains everything you need to understand and implement Labs **1A, 1B, and 1C** on AWS.  
 It teaches **concepts and functions first** (Spark, Glue, Deequ, Athena, S3) so you can build the labs **without copy‑pasting**.  
